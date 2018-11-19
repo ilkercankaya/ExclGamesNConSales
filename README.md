@@ -1,7 +1,7 @@
 # Aim 
 The purpose of this project is to learn the correlation between console sales and exclusive video game sales with machine learning.
 
-## Used technologies
+## Used Technologies
 Spyder with sklearn
 
 ## Datasets
